@@ -1,7 +1,7 @@
 <?php
     print "<h1>Calculate Truck Weight</h1>";
     print "<hr/>";
-    
+
     if(calculate_truck_weight("+6b25 +50 -20 +9b10") == 270) {
         print("test #1 passed");
     }
